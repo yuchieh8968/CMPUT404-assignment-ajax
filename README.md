@@ -17,4 +17,7 @@ Resources
 1. https://stackoverflow.com/questions/7907596/json-dumps-vs-flask-jsonify
    https://stackoverflow.com/users/568708/kenneth-wilke
    https://stackoverflow.com/a/13172658
-2. 
+2. https://stackoverflow.com/questions/1947263/using-an-html-button-to-call-a-javascript-function
+   https://stackoverflow.com/users/94197/andy-e
+   https://stackoverflow.com/a/1947531
+   
